@@ -23,7 +23,7 @@ public class Kalkulator_versi_Switch {
         char pilih;
         
         System.out.println("");
-        System.out.println("--------------By Yudha 205314020--------------");
+        System.out.println("--------------By Skuy--------------");
         System.out.println("--------------PROGRAM KALKULATOR--------------");
         System.out.println("----------------------------------------------");
         System.out.println("");
@@ -74,7 +74,7 @@ public class Kalkulator_versi_Switch {
                     break;
                 }
                         System.out.println("");
-                        System.out.println("--------------By Yudha 205314020--------------");
+                        System.out.println("--------------By Skuy--------------");
                         System.out.println("--------------PROGRAM KALKULATOR--------------");
                         System.out.println("----------------------------------------------");
             }
